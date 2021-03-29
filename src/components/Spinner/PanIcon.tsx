@@ -35,7 +35,7 @@ const Icon: React.FC<SvgProps> = (props) => {
         transform="translate(-11.86 -10)"
         fill="none"
         stroke="#4a4138"
-        stroke-linecap="round"
+        strokeLinecap="round"
         stroke-miterlimit="10"
         stroke-width="0.71"
       />
@@ -54,7 +54,7 @@ const Icon: React.FC<SvgProps> = (props) => {
         transform="translate(-11.86 -10)"
         fill="none"
         stroke="#4a4138"
-        stroke-linecap="round"
+        strokeLinecap="round"
         stroke-miterlimit="10"
         stroke-width="0.71"
       />
@@ -88,7 +88,7 @@ const Icon: React.FC<SvgProps> = (props) => {
         transform="translate(-11.86 -10)"
         fill="none"
         stroke="#4a4138"
-        stroke-linecap="round"
+        strokeLinecap="round"
         stroke-miterlimit="10"
         stroke-width="0.62"
       />
@@ -97,7 +97,7 @@ const Icon: React.FC<SvgProps> = (props) => {
         transform="translate(-11.86 -10)"
         fill="none"
         stroke="#4a4138"
-        stroke-linecap="round"
+        strokeLinecap="round"
         stroke-miterlimit="10"
         stroke-width="0.58"
       />
@@ -116,7 +116,7 @@ const Icon: React.FC<SvgProps> = (props) => {
         transform="translate(-11.86 -10)"
         fill="none"
         stroke="#4a4138"
-        stroke-linecap="round"
+        strokeLinecap="round"
         stroke-miterlimit="10"
         stroke-width="0.62"
       />
@@ -135,7 +135,7 @@ const Icon: React.FC<SvgProps> = (props) => {
         transform="translate(-11.86 -10)"
         fill="none"
         stroke="#4a4138"
-        stroke-linecap="round"
+        strokeLinecap="round"
         stroke-miterlimit="10"
         stroke-width="0.71"
       />
