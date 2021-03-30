@@ -2592,7 +2592,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/abrakadabraannchat",
+                href: "https://t.me/abrakadabrafinance",
             },
             {
                 label: "Announcements",
