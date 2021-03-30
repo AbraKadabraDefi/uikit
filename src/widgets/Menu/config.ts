@@ -31,7 +31,7 @@ export const links = [
   {
     label: "Certik Audit (In-Progress)",
     icon: "ShieldIcon",
-    href: "https://twitter.com/AbraKadabraDefi/status/1367218225310818308",
+    href: "https://twitter.com/abrakadabrabsc/status/1367218225310818308",
     target: "_blank",
   },
   {
@@ -110,7 +110,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/AbraKadabraDefi/",
+        href: "https://github.com/AbraKadabraFinance/",
         target: "_blank",
       },
       {
@@ -119,7 +119,7 @@ export const links = [
       },
       {
         label: "Blog",
-        href: "https://abrakadabradefi.medium.com/",
+        href: "https://abrakadabrafinance.medium.com/",
       },
     ],
   },
@@ -132,18 +132,18 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/abrakadabradefichat",
+        href: "https://t.me/abrakadabraannchat",
       },
       {
         label: "Announcements",
-        href: "https://t.me/abrakadabradefi",
+        href: "https://t.me/abrakadabraann",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/AbraKadabraDefi",
+    href: "https://twitter.com/abrakadabrabsc",
   },
 ];
 
