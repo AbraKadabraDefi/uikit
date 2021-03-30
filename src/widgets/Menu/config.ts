@@ -35,7 +35,7 @@ export const links = [
     target: "_blank",
   },
   {
-    label: "Bush",
+    label: "Launchpad",
     icon: "BushIcon",
     href: "/bush",
   },
