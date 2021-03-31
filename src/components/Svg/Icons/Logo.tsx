@@ -6,17 +6,17 @@ const Icon: React.FC<SvgProps> = (props) => {
   return (
     <Svg viewBox="0 0 362 362" {...props}>
       <defs>
-        <g id="Layer1_0_FILL">
+        <g id="abra_blue_round0_0_FILL">
           <path
             fill="#64C6EB"
             stroke="none"
             d="
-M 77.1 14.85
-Q 64.25 2 46 2 27.75 2 14.85 14.85 2 27.75 2 46 2 64.25 14.85 77.1 27.75 90 46 90 64.25 90 77.1 77.1 90 64.25 90 46 90 27.75 77.1 14.85 Z"
+M 309.25 54.6
+Q 256.7 2.05 182.05 2.05 107.35 2.05 54.6 54.6 2.05 107.35 2.05 182.05 2.05 256.7 54.6 309.25 107.35 362.05 182.05 362.05 256.7 362.05 309.25 309.25 362.05 256.7 362.05 182.05 362.05 107.35 309.25 54.6 Z"
           />
         </g>
 
-        <g id="Symbol_2_0_Layer19_0_FILL">
+        <g id="abra_blue_round_0_Layer19_0_FILL">
           <path
             fill="#E0A010"
             stroke="none"
@@ -26,7 +26,7 @@ Q 426.75 178.4 420.1 164.35 408.05 138.85 388.45 116.15 366.85 91.1 339.75 73.95
           />
         </g>
 
-        <g id="Symbol_2_0_Layer18_0_FILL">
+        <g id="abra_blue_round_0_Layer18_0_FILL">
           <path
             fill="#E2B90E"
             stroke="none"
@@ -36,7 +36,7 @@ Q 418.5 18.45 430.8 2.15 402.55 9.1 379.05 29.8 363.3 43.7 339.75 74.45 316.9 60
           />
         </g>
 
-        <g id="Symbol_2_0_Layer17_0_FILL">
+        <g id="abra_blue_round_0_Layer17_0_FILL">
           <path
             fill="#F4EC8E"
             stroke="none"
@@ -48,7 +48,7 @@ Q 35.5 -0.55 33.05 0.05 29.6 0.7 22.9 9.45 15.2 19.5 9.5 33 -6.5 70.65 3.55 107.
           />
         </g>
 
-        <g id="Symbol_2_0_Layer16_0_FILL">
+        <g id="abra_blue_round_0_Layer16_0_FILL">
           <path
             fill="#DBD279"
             fillOpacity="0.9882352941176471"
@@ -59,7 +59,7 @@ Q 49.05 12.1 47.95 12.65 44.35 14.5 39.35 21.8 33.6 30.3 29.6 41.35 18.8 71.3 27
           />
         </g>
 
-        <g id="Symbol_2_0_Layer15_0_FILL">
+        <g id="abra_blue_round_0_Layer15_0_FILL">
           <path
             fill="#F4EC8E"
             stroke="none"
@@ -71,7 +71,7 @@ Q 420.1 14.4 418.25 21.6 415.8 31.1 415.95 43.15 416.05 47.9 417.4 65.15 418.5 7
           />
         </g>
 
-        <g id="Symbol_2_0_Layer14_0_FILL">
+        <g id="abra_blue_round_0_Layer14_0_FILL">
           <path
             fill="#DBD279"
             fillOpacity="0.9882352941176471"
@@ -82,7 +82,7 @@ Q 423.25 12.1 421.2 15.05 419.2 18 418.25 21.6 415.8 31.1 415.95 43.15 416.05 47
           />
         </g>
 
-        <g id="Symbol_2_0_Layer13_0_FILL">
+        <g id="abra_blue_round_0_Layer13_0_FILL">
           <path
             fill="#F4D647"
             stroke="none"
@@ -95,7 +95,7 @@ Q 161 93.3 170.4 91.1 200.4 84.1 234.15 84.1 267.9 84.1 299.65 91.1 315.5 94.6 3
           />
         </g>
 
-        <g id="Symbol_2_0_Layer12_0_FILL">
+        <g id="abra_blue_round_0_Layer12_0_FILL">
           <path
             fill="#F4EC8E"
             stroke="none"
@@ -106,7 +106,7 @@ Q 173.35 355.8 167.15 361.75 161.2 367.45 161.2 371.25 161.2 374.85 169.8 383.45
         </g>
 
         <path
-          id="Symbol_2_0_Layer11_0_1_STROKES"
+          id="abra_blue_round_0_Layer11_0_1_STROKES"
           stroke="#33363A"
           strokeWidth="10"
           strokeLinejoin="round"
@@ -118,7 +118,7 @@ Q 126 52.25 84.45 21.9 68.3 10.1 53.4 4.05 39.6 -1.55 33.05 0.05 29.6 0.7 22.9 9
         />
 
         <path
-          id="Symbol_2_0_Layer10_0_1_STROKES"
+          id="abra_blue_round_0_Layer10_0_1_STROKES"
           stroke="#33363A"
           strokeWidth="10"
           strokeLinejoin="round"
@@ -131,7 +131,7 @@ Q 52.2 14.4 54.05 21.6 56.5 31.1 56.35 43.15 56.25 47.9 54.9 65.15 53.8 79.3 54.
         />
 
         <path
-          id="Symbol_2_0_Layer9_0_1_STROKES"
+          id="abra_blue_round_0_Layer9_0_1_STROKES"
           stroke="#33363A"
           strokeWidth="10"
           strokeLinejoin="round"
@@ -143,7 +143,7 @@ L 187.15 290.1 198.15 317.1"
         />
 
         <path
-          id="Symbol_2_0_Layer8_0_1_STROKES"
+          id="abra_blue_round_0_Layer8_0_1_STROKES"
           stroke="#33363A"
           strokeWidth="10"
           strokeLinejoin="round"
@@ -155,7 +155,7 @@ Q 345.7 52.25 387.25 21.9 403.4 10.1 418.3 4.05 432.1 -1.55 438.65 0.05 442.1 0.
         />
 
         <path
-          id="Symbol_2_0_Layer7_0_1_STROKES"
+          id="abra_blue_round_0_Layer7_0_1_STROKES"
           stroke="#33363A"
           strokeWidth="10"
           strokeLinejoin="round"
@@ -168,7 +168,7 @@ Q 419.5 14.4 417.65 21.6 415.2 31.1 415.35 43.15 415.45 47.9 416.8 65.15 417.9 7
         />
 
         <path
-          id="Symbol_2_0_Layer6_0_1_STROKES"
+          id="abra_blue_round_0_Layer6_0_1_STROKES"
           stroke="#33363A"
           strokeWidth="10"
           strokeLinejoin="round"
@@ -180,7 +180,7 @@ L 284.65 290.1 273.65 317.1"
         />
 
         <path
-          id="Symbol_2_0_Layer5_0_1_STROKES"
+          id="abra_blue_round_0_Layer5_0_1_STROKES"
           stroke="#33363A"
           strokeWidth="10"
           strokeLinejoin="round"
@@ -192,7 +192,7 @@ Q 169.85 362.3 183.8 353.9 211.75 337.1 236.05 337.1 260.35 337.1 287.7 354.6 30
         />
 
         <path
-          id="Symbol_2_0_Layer4_0_1_STROKES"
+          id="abra_blue_round_0_Layer4_0_1_STROKES"
           stroke="#33363A"
           strokeWidth="10"
           strokeLinejoin="round"
@@ -204,7 +204,7 @@ L 225.7 391.45"
         />
 
         <path
-          id="Symbol_2_0_Layer3_0_1_STROKES"
+          id="abra_blue_round_0_Layer3_0_1_STROKES"
           stroke="#33363A"
           strokeWidth="10"
           strokeLinejoin="round"
@@ -216,7 +216,7 @@ L 246.9 391.45"
         />
 
         <path
-          id="Symbol_2_0_Layer2_0_1_STROKES"
+          id="abra_blue_round_0_Layer2_0_1_STROKES"
           stroke="#33363A"
           strokeWidth="10"
           strokeLinejoin="round"
@@ -228,7 +228,7 @@ Q 118.85 313.7 99.35 302.4 77.75 289.85 66.2 277.75"
         />
 
         <path
-          id="Symbol_2_0_Layer1_0_1_STROKES"
+          id="abra_blue_round_0_Layer1_0_1_STROKES"
           stroke="#33363A"
           strokeWidth="10"
           strokeLinejoin="round"
@@ -240,7 +240,7 @@ Q 354.35 313.7 373.85 302.4 395.45 289.85 407 277.75"
         />
 
         <path
-          id="Symbol_2_0_Layer0_0_1_STROKES"
+          id="abra_blue_round_0_Layer0_0_1_STROKES"
           stroke="#33363A"
           strokeWidth="10"
           strokeLinejoin="round"
@@ -255,88 +255,88 @@ Q 316 59.8 291.75 52.4 264.3 44.05 235.1 44.05 206.1 44.05 179.45 51.35 154.55 5
       </defs>
 
       <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-        <use xlinkHref="#Layer1_0_FILL" />
+        <use xlinkHref="#abra_blue_round0_0_FILL" />
       </g>
 
-      <g transform="matrix( 0.148529052734375, 0, 0, 0.148529052734375, 10.8,17.8) ">
+      <g transform="matrix( 0.60760498046875, 0, 0, 0.60760498046875, 38,66.65) ">
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer19_0_FILL" />
+          <use xlinkHref="#abra_blue_round_0_Layer19_0_FILL" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer18_0_FILL" />
+          <use xlinkHref="#abra_blue_round_0_Layer18_0_FILL" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer17_0_FILL" />
+          <use xlinkHref="#abra_blue_round_0_Layer17_0_FILL" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer16_0_FILL" />
+          <use xlinkHref="#abra_blue_round_0_Layer16_0_FILL" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer15_0_FILL" />
+          <use xlinkHref="#abra_blue_round_0_Layer15_0_FILL" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer14_0_FILL" />
+          <use xlinkHref="#abra_blue_round_0_Layer14_0_FILL" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer13_0_FILL" />
+          <use xlinkHref="#abra_blue_round_0_Layer13_0_FILL" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer12_0_FILL" />
+          <use xlinkHref="#abra_blue_round_0_Layer12_0_FILL" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer11_0_1_STROKES" />
+          <use xlinkHref="#abra_blue_round_0_Layer11_0_1_STROKES" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer10_0_1_STROKES" />
+          <use xlinkHref="#abra_blue_round_0_Layer10_0_1_STROKES" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer9_0_1_STROKES" />
+          <use xlinkHref="#abra_blue_round_0_Layer9_0_1_STROKES" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer8_0_1_STROKES" />
+          <use xlinkHref="#abra_blue_round_0_Layer8_0_1_STROKES" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer7_0_1_STROKES" />
+          <use xlinkHref="#abra_blue_round_0_Layer7_0_1_STROKES" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer6_0_1_STROKES" />
+          <use xlinkHref="#abra_blue_round_0_Layer6_0_1_STROKES" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer5_0_1_STROKES" />
+          <use xlinkHref="#abra_blue_round_0_Layer5_0_1_STROKES" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer4_0_1_STROKES" />
+          <use xlinkHref="#abra_blue_round_0_Layer4_0_1_STROKES" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer3_0_1_STROKES" />
+          <use xlinkHref="#abra_blue_round_0_Layer3_0_1_STROKES" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer2_0_1_STROKES" />
+          <use xlinkHref="#abra_blue_round_0_Layer2_0_1_STROKES" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer1_0_1_STROKES" />
+          <use xlinkHref="#abra_blue_round_0_Layer1_0_1_STROKES" />
         </g>
 
         <g transform="matrix( 1, 0, 0, 1, 0,0) ">
-          <use xlinkHref="#Symbol_2_0_Layer0_0_1_STROKES" />
+          <use xlinkHref="#abra_blue_round_0_Layer0_0_1_STROKES" />
         </g>
       </g>
     </Svg>
